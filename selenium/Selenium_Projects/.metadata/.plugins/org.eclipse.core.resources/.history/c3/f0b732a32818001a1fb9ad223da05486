@@ -1,0 +1,19 @@
+package collections;
+
+import java.util.ArrayList;
+
+public class ArrayListPractice {
+	
+	String tempString = "I am Selenium programer";
+
+	public static void arrayListMethod() {
+		
+		char[] templist = tempString
+ 
+		ArrayList<String> list = new ArrayList<String>();
+		list.add("User1");
+		list.add();
+		
+	}
+
+}

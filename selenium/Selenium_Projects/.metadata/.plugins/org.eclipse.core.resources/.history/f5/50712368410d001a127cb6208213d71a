@@ -1,0 +1,27 @@
+package pkg_Practice;
+
+public class ReverseString {
+
+	public static String givenString = "I am an automation engineer";
+
+	public static void reverseString() {
+
+		StringBuilder resultString;
+		StringBuilder str = new StringBuilder();
+		resultString = str.append(givenString).reverse();
+		System.out.println("resultString: " + resultString);
+
+	}
+
+	public static void reverseStringwitoutUsingPredefineMethods() {
+		
+		char reverseredString[] = givenString.toCharArray();
+		
+		for(int i=reverseredString.length-1;i>=0;)
+		{
+			
+		}
+
+	}
+
+}

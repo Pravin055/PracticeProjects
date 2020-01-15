@@ -1,0 +1,15 @@
+package collections;
+
+public class ReadStringFindthePositionOfsubString {
+
+	public void readfullStringAndSeprateItWithSpaceandFindThePosiion() {
+		
+		String inputString ="India canada India";
+		
+		
+	ArrayList <String> subStringList = inputString.split(" ");
+		
+	
+	}
+
+}

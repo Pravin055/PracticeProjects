@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exceldriven.FetchTestData&apos; to &apos;TestData&apos;&#x0D;&#x0A;- Original project: &apos;fetch-data-from-excel&apos;&#x0D;&#x0A;- Original element: &apos;exceldriven.FetchTestData&apos;&#x0D;&#x0A;- Renamed element: &apos;exceldriven.TestData&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FetchTestData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;exceldriven{FetchTestData.java[FetchTestData" matchStrategy="1" name="TestData" qualified="false" references="true" similarDeclarations="false" stamp="1576573561762" textual="false" version="1.0"/>
+</session>

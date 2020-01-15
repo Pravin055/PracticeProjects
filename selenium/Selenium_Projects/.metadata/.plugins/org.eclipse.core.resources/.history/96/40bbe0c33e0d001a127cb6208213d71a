@@ -1,0 +1,10 @@
+package pkg_Practice;
+
+public class ReverseString {
+	
+	public void reverseString()
+	{
+		String = "I am an automation engineer";
+	}
+
+}

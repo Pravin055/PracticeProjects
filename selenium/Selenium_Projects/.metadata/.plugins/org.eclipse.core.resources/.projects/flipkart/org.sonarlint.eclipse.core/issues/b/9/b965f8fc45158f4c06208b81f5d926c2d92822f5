@@ -1,0 +1,16 @@
+
+Q	Web:S1827
+")Remove this deprecated "align" attribute.(”Ä·€RMAJORZ
+CODE_SMELL
+V	Web:S1827"")Remove this deprecated "align" attribute.(’ì±ûÿÿÿÿRMAJORZ
+CODE_SMELL
+V	Web:S1827")Remove this deprecated "align" attribute.(«¿×ËşÿÿÿÿRMAJORZ
+CODE_SMELL
+x Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ª›¢üÿÿÿÿRMAJORZBUG
+x Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(èÆñöÿÿÿÿÿRMAJORZBUG
+s Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÉĞÈ‰RMAJORZBUG
+Q	Web:S1827")Remove this deprecated "align" attribute.(ÜëÔÀRMAJORZ
+CODE_SMELL
+Q	Web:S1827")Remove this deprecated "align" attribute.(¹ ıÛRMAJORZ
+CODE_SMELL
+SWeb:TableWithoutCaptionCheck" Add a description to this table.(ÀŸâRMINORZBUG

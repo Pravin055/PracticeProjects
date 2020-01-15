@@ -1,0 +1,13 @@
+package collections;
+
+public class ReadStringFindthePositionOfsubString {
+
+	public void readfullStringAndSeprateItWithSpaceandFindThePosiion() {
+		
+		String inputString ="India canada India";
+		
+		
+		StringBuilder str = new StringBuilder();
+	}
+
+}

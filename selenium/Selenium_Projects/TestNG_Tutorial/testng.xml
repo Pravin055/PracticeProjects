@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+  <test thread-count="5" name="Personal Loan">
+    <classes>
+      <class name="testngtutorials.Day1"/>
+      <class name="testngtutorials.Day3"/>
+      <class name="testngtutorials.Day2"/>
+      <class name="testngtutorials.Day4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

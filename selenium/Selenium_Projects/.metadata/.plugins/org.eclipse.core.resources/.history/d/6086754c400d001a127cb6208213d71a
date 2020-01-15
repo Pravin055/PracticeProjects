@@ -1,0 +1,16 @@
+package pkg_Practice;
+
+public class ReverseString {
+	
+	public void reverseString()
+	{
+		String givenString= "I am an automation engineer";
+		String resultString = "";
+		
+		StringBuilder str = new StringBuilder();
+		str.append(givenString);
+		resultString = str.reverse();
+		
+	}
+
+}

@@ -1,0 +1,26 @@
+
+YWeb:TableWithoutCaptionCheck8" Add a description to this table.(‰Ì‘®üÿÿÿÿRMINORZBUG
+V	Web:S1827G")Remove this deprecated "align" attribute.(„òÓ‚ıÿÿÿÿRMAJORZ
+CODE_SMELL
+XWeb:BoldAndItalicTagsCheckI"!Replace this <b> tag by <strong>.(­ÒƒÿÿÿÿÿRMINORZBUG
+RWeb:BoldAndItalicTagsCheckN"!Replace this <b> tag by <strong>.(ßêÄaRMINORZBUG
+XWeb:BoldAndItalicTagsCheckJ"!Replace this <b> tag by <strong>.(‰¨€åøÿÿÿÿRMINORZBUG
+XWeb:BoldAndItalicTagsCheckG"!Replace this <b> tag by <strong>.(„òÓ‚ıÿÿÿÿRMINORZBUG
+V	Web:S18278")Remove this deprecated "align" attribute.(‰Ì‘®üÿÿÿÿRMAJORZ
+CODE_SMELL
+TWeb:BoldAndItalicTagsCheckE"Replace this <i> tag by <em>.(Á«½áıÿÿÿÿRMINORZBUG
+V	Web:S1827I")Remove this deprecated "width" attribute.(­ÒƒÿÿÿÿÿRMAJORZ
+CODE_SMELL
+oWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿRMAJORZBUG
+TWeb:TableWithoutCaptionCheckF" Add a description to this table.(ß¤€RMINORZBUG
+V	Web:S18278")Remove this deprecated "align" attribute.(‰Ì‘®üÿÿÿÿRMAJORZ
+CODE_SMELL
+SWeb:BoldAndItalicTagsCheckH"!Replace this <b> tag by <strong>.(§Àé¦RMINORZBUG
+Q	Web:S1827F")Remove this deprecated "width" attribute.(ß¤€RMAJORZ
+CODE_SMELL
+f	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿRMAJORZBUG
+SWeb:BoldAndItalicTagsCheckK"!Replace this <b> tag by <strong>.(ÚšöèRMINORZBUG
+K	Web:S52568"%Add "<th>" headers to this "<table>".(‰Ì‘®üÿÿÿÿRMAJORZBUG
+V	Web:S1827J")Remove this deprecated "width" attribute.(‰¨€åøÿÿÿÿRMAJORZ
+CODE_SMELL
+F	Web:S5256F"%Add "<th>" headers to this "<table>".(ß¤€RMAJORZBUG

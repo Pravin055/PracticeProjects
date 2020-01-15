@@ -1,0 +1,7 @@
+<suite name='hybridframework'>
+   <suite-files>
+      <suite-file path="billing.xml"/>
+      <suite-file path="users.xml"/>
+   </suite-files>
+
+</suite>

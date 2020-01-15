@@ -1,0 +1,8 @@
+package collections;
+
+public class ReadStringFindthePositionOfsubString {
+
+	public void readfullStringAndSeprateItWithSpaceandFindThePosiion() {
+	}
+
+}

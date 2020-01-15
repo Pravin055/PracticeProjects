@@ -1,0 +1,44 @@
+Xpath = //div[@class='SDkEP']//div[@class='dRYYxd']
+
+//tagname[contains(@attrb,'value')]
+//*[starts-with(@attrb,'value')]
+//tagname[@attrb*='value']
+//tagname[text()='value']
+
+=================================================================================================================
+
+CSS = div[class='SDkEP'] div[class='dRYYxd']
+
+tagname[aat='value']
+tagname[aat*='value']
+[aat='value']
+.classname
+#idname
+
+By.id("idname")
+
+
+==================================================================================================================
+Once you swith your driver to alert by using the drver.switchTo();
+
+You can perform the following operation
+
+alert().accept();
+alert().dismiss();
+alert().getText();
+alert().sendKeys();
+
+==================================================================================================================
+One of the best Example of Complex Xpath from https://rahulshettyacademy.com/seleniumPractise/#/
+
+Add Cucumber to cart
+
+//h4[contains(text(),'Cucumber')]//following::div[2]//button
+//h4[contains(text(),'Beetroot')]//following::div[2]//button
+
+
+
+Xpath for Google Searchbutton
+//div[@class='FPdoLc tfB0Bf']//center//input[1]
+//div[@class='FPdoLc tfB0Bf']//center//input[1]
+div[class='FPdoLc tfB0Bf'] center input:nth-child(1)	

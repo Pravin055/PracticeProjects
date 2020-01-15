@@ -1,0 +1,43 @@
+package pkg_Practice;
+
+public class Programs_JAVA {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		for (int i = 0; i <= 6; i++) {
+			for(int j=6; j>=i;j--) 
+			{
+				System.out.print("*");
+			}
+			System.out.println();
+
+		}
+
+		// Print the * box
+		/*
+		 * for (int i = 0; i <= 5; i++) {
+		 * 
+		 * for (int j = 0; j <= 5; j++) {
+		 * 
+		 * System.out.print("*"); } System.out.println();
+		 * 
+		 * }
+		 */
+
+		// Print the pyramid of *
+
+		/*
+		 * for (int i = 0; i <= 5; i++) {
+		 * 
+		 * for (int j = 0; j <= i; j++) {
+		 * 
+		 * System.out.print("*"); } System.out.println(); }
+		 */
+		//ReverseString.reverseString();
+		ReverseString.reverseStringwitoutUsingPredefineMethods();
+		ReverseString.swapTwoumbers();
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package pkg_Practice;
+
+public class ReverseString {
+	
+	public void reverseString()
+	{
+		String fivenString= "I am an automation engineer";
+		String ResultString = "";
+		
+		StringBuilder str = new StringBuilder();
+		ResultString =str.append(fivenString);
+	}
+
+}

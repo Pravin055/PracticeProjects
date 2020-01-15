@@ -1,0 +1,36 @@
+package collections;
+
+import java.util.ArrayList;
+
+public class ArrayListPractice {
+
+	public static void arrayListMethod() {
+		String tempString = "I am Selenium programer";
+
+		char[] templist = tempString.toCharArray();
+
+		ArrayList<String> list = new ArrayList<String>();
+		list.add("User1");
+		list.add("User2");
+		list.add(2, "User4");
+		list.add("User3");
+		list.add("User3");
+
+		// System.out.println(list.toString());
+		System.out.println("list before for loop : " + list);
+
+		for (int i = 0; i <= templist.length - 1; i++) {
+			String value = String.valueOf(templist[i]);
+			list.add(value);
+
+		}
+		System.out.println("list after for loop : " + list);
+		
+		list.remove("User3");
+		System.out.println("list after deleting User3 : " + list);
+		
+		
+
+	}
+
+}

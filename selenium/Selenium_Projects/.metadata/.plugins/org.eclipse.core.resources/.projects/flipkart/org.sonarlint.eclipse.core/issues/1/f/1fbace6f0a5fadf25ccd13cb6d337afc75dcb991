@@ -1,0 +1,8 @@
+
+oWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(ˆÿºşÿÿÿÿRMAJORZBUG
+^Web:FrameWithoutTitleCheck",Add a "title" attribute to this <frame> tag.(‡¾›¾RMINORZBUG
+cWeb:FrameWithoutTitleCheck",Add a "title" attribute to this <frame> tag.(·ííøÿÿÿÿRMINORZBUG
+^Web:UnsupportedTagsInHtml5Check"'Remove this deprecated "frame" element.(‡¾›¾RMAJORZBUG
+f	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(ˆÿºşÿÿÿÿRMAJORZBUG
+cWeb:UnsupportedTagsInHtml5Check"'Remove this deprecated "frame" element.(·ííøÿÿÿÿRMAJORZBUG
+fWeb:UnsupportedTagsInHtml5Check"*Remove this deprecated "frameset" element.(¤ÉÛ˜úÿÿÿÿRMAJORZBUG

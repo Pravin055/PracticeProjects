@@ -1,0 +1,46 @@
+package pkg_Practice;
+
+public class ReverseString {
+
+	public static String givenString = "I am an automation engineer";
+
+	public static void reverseString() {
+
+		StringBuilder resultString;
+		StringBuilder str = new StringBuilder();
+		resultString = str.append(givenString).reverse();
+		System.out.println("resultString: " + resultString);
+
+	}
+
+	public static void reverseStringwitoutUsingPredefineMethods() {
+
+		char reverseredString[] = givenString.toCharArray();
+
+		System.out.print("outputString is : ");
+		for (int i = reverseredString.length - 1; i >= 0; i--) {
+			// String outputString = (String) reverseredString.toString();
+
+			System.out.print(reverseredString[i]);
+		}
+
+	}
+
+	public static void swapTwoumbers()
+
+	{
+		int a = 5;
+		int b = 6;
+		int temp;
+
+		// Actual logic
+		temp = a;
+		a = b;
+		b = temp;
+
+		System.out.println("a: " + a);
+		System.out.println("b: " + b);
+
+	}
+
+}

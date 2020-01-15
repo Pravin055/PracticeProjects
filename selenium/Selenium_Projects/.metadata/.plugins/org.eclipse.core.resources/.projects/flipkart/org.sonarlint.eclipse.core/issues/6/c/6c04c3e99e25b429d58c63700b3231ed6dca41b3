@@ -1,0 +1,24 @@
+
+TWeb:TableWithoutCaptionCheck	" Add a description to this table.(†ñËøRMINORZBUG
+YWeb:TableWithoutCaptionCheck" Add a description to this table.(³àØ¥øÿÿÿÿRMINORZBUG
+Q	Web:S1827")Remove this deprecated "width" attribute.(È–¡ºRMAJORZ
+CODE_SMELL
+V	Web:S1827")Remove this deprecated "align" attribute.(³àØ¥øÿÿÿÿRMAJORZ
+CODE_SMELL
+W	Web:S1827"*Remove this deprecated "valign" attribute.(³àØ¥øÿÿÿÿRMAJORZ
+CODE_SMELL
+f	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿRMAJORZBUG
+K	Web:S5256"%Add "<th>" headers to this "<table>".(³àØ¥øÿÿÿÿRMAJORZBUG
+TWeb:TableWithoutCaptionCheck" Add a description to this table.(È–¡ºRMINORZBUG
+R	Web:S1827
+"*Remove this deprecated "valign" attribute.(ú©£ûRMAJORZ
+CODE_SMELL
+F	Web:S5256"%Add "<th>" headers to this "<table>".(È–¡ºRMAJORZBUG
+W	Web:S1827"*Remove this deprecated "valign" attribute.(³àØ¥øÿÿÿÿRMAJORZ
+CODE_SMELL
+V	Web:S1827")Remove this deprecated "align" attribute.(…†Ó¡ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+Q	Web:S1827	")Remove this deprecated "width" attribute.(†ñËøRMAJORZ
+CODE_SMELL
+oWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿRMAJORZBUG
+F	Web:S5256	"%Add "<th>" headers to this "<table>".(†ñËøRMAJORZBUG

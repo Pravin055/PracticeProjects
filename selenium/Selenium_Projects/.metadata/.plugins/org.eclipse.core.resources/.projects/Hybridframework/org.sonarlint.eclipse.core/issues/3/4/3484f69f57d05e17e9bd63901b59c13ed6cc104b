@@ -1,0 +1,42 @@
+
+fsquid:S22599"@A "NullPointerException" could be thrown; "wb" is nullable here.(¢”ÒÎHì7RMAJORZBUG
+Wsquid:S00108")Either remove or fill this block of code.(Ô≠£ƒHõ7RMAJORZ
+CODE_SMELL
+Wsquid:S001086")Either remove or fill this block of code.(Ô≠£ƒH°7RMAJORZ
+CODE_SMELL
+Wsquid:S00108J")Either remove or fill this block of code.(ÓÊ≥çH¶7RMAJORZ
+CODE_SMELL
+Wsquid:S00108,")Either remove or fill this block of code.(ã±√∆Hú7RMAJORZ
+CODE_SMELL
+qsquid:S2147"DCombine this catch with the one at line 26, which has the same body.(ÓÊ≥çHó7RMINORZ
+CODE_SMELL
+Wsquid:S001084")Either remove or fill this block of code.(ÓÊ≥çH†7RMAJORZ
+CODE_SMELL
+Wsquid:S00108B")Either remove or fill this block of code.(ã±√∆H¢7RMAJORZ
+CODE_SMELL
+Wsquid:S00108")Either remove or fill this block of code.(ÓÊ≥çHö7RMAJORZ
+CODE_SMELL
+qsquid:S21476"DCombine this catch with the one at line 50, which has the same body.(Ô≠£ƒHû7RMINORZ
+CODE_SMELL
+qsquid:S2147L"DCombine this catch with the one at line 72, which has the same body.(Ô≠£ƒH§7RMINORZ
+CODE_SMELL
+Wsquid:S00108T")Either remove or fill this block of code.(ã±√∆H®7RMAJORZ
+CODE_SMELL
+Wsquid:S00108")Either remove or fill this block of code.(≈î¸∏Hô7RMAJORZ
+CODE_SMELL
+fsquid:S2259!"@A "NullPointerException" could be thrown; "wb" is nullable here.(ë∂¥¿Hí7RMAJORZBUG
+Wsquid:S00108L")Either remove or fill this block of code.(Ô≠£ƒHß7RMAJORZ
+CODE_SMELL
+qsquid:S2147"DCombine this catch with the one at line 26, which has the same body.(Ô≠£ƒHò7RMINORZ
+CODE_SMELL
+Wsquid:S00108H")Either remove or fill this block of code.(≈î¸∏H•7RMAJORZ
+CODE_SMELL
+qsquid:S21474"DCombine this catch with the one at line 50, which has the same body.(ÓÊ≥çHù7RMINORZ
+CODE_SMELL
+Wsquid:S00108")Either remove or fill this block of code.(ã±√∆Hñ7RMAJORZ
+CODE_SMELL
+Wsquid:S001082")Either remove or fill this block of code.(≈î¸∏Hü7RMAJORZ
+CODE_SMELL
+qsquid:S2147J"DCombine this catch with the one at line 72, which has the same body.(ÓÊ≥çH£7RMINORZ
+CODE_SMELL
+ksquid:S2259O"@A "NullPointerException" could be thrown; "wb" is nullable here.(€ô°˘˝ˇˇˇˇHî7RMAJORZBUG

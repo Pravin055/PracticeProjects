@@ -1,0 +1,7 @@
+package collections;
+
+public class ArrayListPractice {
+	
+	ArrayList <> list = new ArrayList<>();
+
+}

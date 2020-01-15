@@ -1,0 +1,9 @@
+
+€squid:HiddenFieldCheck9"<Rename "workbook" which hides the field declared at line 18.(¼Ö‰»üÿÿÿÿ8¤ªýÍñ-Hý=RMAJORZ
+CODE_SMELL
+‰squid:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ü¨Ö8©ÐŸ¢ñ-HÂ;RCRITICALZ
+CODE_SMELL
+csquid:S11724"/Remove this unused method parameter "fileName".(ü¨Ö8ÂæðÍñ-Hé=RMAJORZ
+CODE_SMELL
+~squid:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(šÞŽÜ8÷Éˆ¤ñ-HÊ;RMAJORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+menu_Electronics =  li[class='Wbt_B2 _1YVU3_']:nth-of-type(1) span[class='_1QZ6fC _3Lgyp8'] &li[class='Wbt_B2 _1YVU3_']:nth-child(1) span[class='_1QZ6fC _3Lgyp8']
+lnk_mobilemenue = a[title="Mobiles"] , a[title='Mobiles'] & a[href='/mobile-phones-store?otracker=nmenu_sub_Electronics_0_Mobiles']
+
+
+#container > div > div.zi6sUf > div > ul > li:nth-child(1) > span

@@ -1,0 +1,23 @@
+package collections;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class ReadStringFindthePositionOfsubString {
+
+	public static void readfullStringAndSeprateItWithSpaceandFindThePosiion() {
+		
+		String inputString ="India canada India";
+		
+		
+	String[] subStringList = inputString.split(" ");
+	
+	ArrayList<String> newList = ArrayList<String>(subStringList);
+	
+	List<String> wordList = Arrays.asList(subStringList); 
+		
+	
+	}
+
+}
